@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #333;
 }
 
 /* Custom default button */
@@ -55,11 +55,6 @@ body {
   max-width: 42em;
 }
 
-.image {
-  float: right
-    font-size: 20px;
-    padding-left: 20px;
-}
 
 /*
  * Header
