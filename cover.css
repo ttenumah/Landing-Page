@@ -51,6 +51,20 @@ body {
 
 }
 
+h1 {
+  color: green;
+}
+      
+         h3 {
+  color: green;
+}
+            nav {
+  color: green;
+}
+      p2{
+        color: green;
+      }
+
 .cover-container {
   max-width: 42em;
 }
