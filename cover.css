@@ -99,8 +99,8 @@ h1 {
 }
 
 .nav-masthead .active {
-  color: #red;
-  border-bottom-color: #blue;
+  color: red;
+  border-bottom-color: blue;
 }
 
 @media (min-width: 48em) {
