@@ -91,7 +91,7 @@ h1 {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  border-bottom-color: rgba(255,0,255,0.3);
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -99,7 +99,7 @@ h1 {
 }
 
 .nav-masthead .active {
-  color: #fff;
+  color: #green;
   border-bottom-color: #fff;
 }
 
